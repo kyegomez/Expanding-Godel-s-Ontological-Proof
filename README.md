@@ -6,4 +6,4 @@ refinements of the original framework. We examine the modal logical structure un
 philosophical discourse.
 
 
-[Paper Link](paper.pdf)
+[Paper Link](egop.pdf)
